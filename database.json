@@ -2,7 +2,7 @@
   "allowedIps": ["172.18.0.5", "182.3.8.243"],
   "users": [
     {
-      "username": "apis", // username Biarkan saja seperti ini
+      "username": "fall", // username Biarkan saja seperti ini
       "password": "apis"
     },
     {
