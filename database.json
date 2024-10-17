@@ -1,5 +1,5 @@
 {
-  "allowedIps": ["180.254.148.172"],
+  "allowedIps": ["172.18.0.25"],
   "users": [
     {
       "username": "apiis",
